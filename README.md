@@ -19,7 +19,7 @@ Instalação:
 Clone o repositório do projeto:
 bash
 Copy code
-git clone https://github.com/seu-usuario/weather-app.git
+git clone [https://github.com/seu-usuario/weather-app.git](https://github.com/jotta2021/weatherApp24/tree/master)
 Navegue até o diretório do projeto:
 bash
 Copy code
